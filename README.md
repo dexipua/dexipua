@@ -31,4 +31,4 @@ Oracle Certified Associate, Java SE 8
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/artem-moseichenko/)
+[Portfolio](https://dexipua.github.io/) · [LinkedIn](https://www.linkedin.com/in/artem-moseichenko/)
