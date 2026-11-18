@@ -16,7 +16,7 @@ Open to Java / full-stack internships.
 | [Messenger](https://github.com/dexipua/messenger_CoffeeProgrammers) | Web messenger with real-time chats | Team lead; most of the backend, JWT auth, WebSocket, React pages | Java, Spring Boot, React, WebSocket |
 | [School management system](https://github.com/dexipua/CoffeeProgrammers) | Grades, subjects, class schedules and school news | Team lead; large share of the backend, JWT auth, tests | Java, Spring Boot, React |
 | [Lyceum European website](https://github.com/EuropeanLyceum/site) | Official website of my lyceum ([live](https://european-lyceum.pp.ua/)): 27 pages in two languages plus an admin panel | Built ~90% of it | Next.js, React, Prisma, PostgreSQL, Docker |
-| [Country Matcher](https://github.com/dexipua/B4SE1NA) | Ranks countries by how close they match your ideal profile (World Bank data) | University team project | Python, Streamlit, pandas, Plotly |
+| [Country Matcher](https://github.com/dexipua/B4SE1NA) | Ranks countries by how close they match your ideal profile (World Bank data) | University team project; I wrote ~70% of the code | Python, Streamlit, pandas, Plotly |
 | [Linear algebra prep](https://dexipua.github.io/linal-extern/) | Study site: notes, 76 problems, mock tests with a timer | Solo | HTML, CSS, JavaScript |
 
 #### Skills
