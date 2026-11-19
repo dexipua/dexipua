@@ -10,6 +10,7 @@ Open to Java / full-stack internships.
 
 | Project | What it does | My part | Stack |
 |---|---|---|---|
+| [Deadliner](https://github.com/dexipua/deadliner) | Telegram bot + web dashboard that reminds KSE students about Moodle deadlines: exactly-once reminders, custom quiet hours, per-course groups, stats | Solo; built with Claude Code as AI pair programmer | Java 21, Spring Boot 4, React 19, PostgreSQL, Testcontainers |
 | [Tournament System](https://github.com/CoffeeProgrammers-3-0/tournament) | Platform for running the SFL Programming Tournament 2026: rounds, team tasks, jury scoring, leaderboard, certificates | Team lead; the whole React + TypeScript frontend | React 19, TypeScript, Spring Boot, Keycloak, Docker |
 | [School-Voting](https://github.com/CoffeeProgrammers/School-Voting) | Voting and petitions platform for schools | Team lead; core backend, Keycloak auth, WebSocket, most tests | Java 21, Spring Boot, React, PostgreSQL, Keycloak, Docker |
 | [School-Calendar](https://github.com/CoffeeProgrammers/School-Calendar) | School calendar with events, tasks, invitations and notifications | Team lead; JWT auth, most backend services, Docker setup | Java 21, Spring Boot, React, PostgreSQL, Docker |
