@@ -4,7 +4,7 @@ Java full-stack developer (Spring Boot + React) and a student at Kyiv School of 
 
 I lead **CoffeeProgrammers**, a student dev team at the All-Ukrainian Team Programming Tournament: **1st place in 2025**, **2nd place in 2024**. I design the architecture and database, split the work, review code and write most of the backend.
 
-Open to Java / full-stack internships.
+Open to Java / full-stack internships in Kyiv, hybrid or remote. [Download my CV (PDF)](https://dexipua.github.io/cv.pdf)
 
 #### Projects
 
@@ -26,11 +26,11 @@ Open to Java / full-stack internships.
 - **Auth:** JWT (access + refresh tokens), Keycloak, OAuth2
 - **Data:** PostgreSQL, H2, Flyway, Prisma
 - **Frontend:** React, TypeScript, Next.js, MUI, i18next
-- **Testing:** JUnit, Spring Boot Test, Instancio
-- **Tools:** Docker, Docker Compose, Git, Python
+- **Testing:** JUnit 5, Mockito, Testcontainers, Spring Boot Test, Instancio
+- **Tools:** Docker, Docker Compose, Git, GitHub Actions, Python, Claude Code
 
-Oracle Certified Associate, Java SE 8
+Oracle Certified Associate, Java SE 8 · SoftServe Academy: Java and Spring Framework (2023)
 
 #### Contact
 
-[Portfolio](https://dexipua.github.io/) · [LinkedIn](https://www.linkedin.com/in/artem-moseichenko/)
+[ma.ua@outlook.com](mailto:ma.ua@outlook.com) · [Portfolio](https://dexipua.github.io/) ([українською](https://dexipua.github.io/uk/)) · [CV](https://dexipua.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/artem-moseichenko/)
